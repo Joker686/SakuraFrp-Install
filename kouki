@@ -1,0 +1,3 @@
+wget --no-check-certificate "https://raw.githubusercontent.com/kasuganosoras/SakuraFrp-Install/master/install-sakurafrp-world.sh"
+chmod +x install-sakurafrp-world.sh
+./install-sakurafrp-world.sh
